@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogSampleWithEFCore", "BlogSampleWithEFCore\BlogSampleWithEFCore.csproj", "{7E54311B-66C7-4E57-9103-01E38B9A622C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogSampleMongoDB", "BlogSampleMongoDB\BlogSampleMongoDB.csproj", "{16A45E3D-CD85-4DA9-9B8F-31FD8C22529A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7E54311B-66C7-4E57-9103-01E38B9A622C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E54311B-66C7-4E57-9103-01E38B9A622C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E54311B-66C7-4E57-9103-01E38B9A622C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A45E3D-CD85-4DA9-9B8F-31FD8C22529A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A45E3D-CD85-4DA9-9B8F-31FD8C22529A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A45E3D-CD85-4DA9-9B8F-31FD8C22529A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A45E3D-CD85-4DA9-9B8F-31FD8C22529A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
